@@ -25,10 +25,14 @@ ansible-galaxy install debops-contrib.x2go_server
 
 ### Documentation
 
-Until the documentation is available in a rendered version you can refer to the
-reST documentation source files in the
-[/docs](https://github.com/debops-contrib/ansible-x2go_server/tree/master/docs) directory.
-Refer to the [debops/docs#111 issue](https://github.com/debops/docs/issues/111) for details.
+<!-- FIXME: Change to the canonical URL when it has been setup. https://github.com/debops/docs/issues/111 -->
+More information about `debops-contrib.x2go_server` can be found in the
+[official debops-contrib.x2go_server documentation](https://debops-contrib.readthedocs.io/en/latest/ansible/roles/ansible-x2go_server/docs/).
+
+## Contributing
+
+Please note that this repository is not the upstream repository where changes should be contributed to.
+Head over to https://github.com/debops/debops where you can find the contents of this repo and where changes are welcome.
 
 
 
